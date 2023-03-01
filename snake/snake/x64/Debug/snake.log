@@ -1,0 +1,6 @@
+﻿  snake.cpp
+F:\big silly b\snake\snake\snake.cpp(1,1): warning C4828: 文件包含在偏移 0x1256 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+F:\big silly b\snake\snake\snake.cpp(83,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\big silly b\snake\snake\snake.cpp(89,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\big silly b\snake\snake\snake.cpp(108,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  snake.vcxproj -> F:\big silly b\snake\x64\Debug\snake.exe
